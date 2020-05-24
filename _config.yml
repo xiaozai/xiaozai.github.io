@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Test Account"
+title                    : "Song Yan's HomePage"
 title_separator          : "-"
 name                     : &name "Song Yan"
-description              : &description "Research scientist at Test University"
+description              : &description "PhD student at Tampere University"
 url                      : https://xiaozai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaozai.github.io"
@@ -82,7 +82,7 @@ author:
   bio              : "PhD student at Tampere University / Tampere University of Technology"
   location         : "Tampere, Finland"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=nmLU3wwAAAAJ&hl=en"
+  googlescholar    : "citations?user=nmLU3wwAAAAJ&hl=en" # https://scholar.google.com/
   email            : 
   uri              : 
   bitbucket        :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "https://github.com/xiaozai"
+  github           : "xiaozai"
   google_plus      :
   keybase          :
   instagram        : 
