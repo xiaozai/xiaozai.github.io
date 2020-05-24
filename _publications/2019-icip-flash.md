@@ -3,13 +3,14 @@ title: "Flash Lightens Gray Pixels"
 collection: publications
 permalink: /publications/2019-icip-flash
 venue: "IEEE International Conference on Image Processing (ICIP2019)"
+excerpt: ''
 date: 2019-02-27
 paperurl: https://arxiv.org/pdf/1902.10466.pdf
 citation: 'Y Qian, S Yan, JK Kämäräinen, J Matas. "Anthropometric clothing measurements from 3D body scans." <i>IEEE International Conference on Image Processing (ICIP2019)</i> arXiv preprint arXiv:1902.10466 (2019) '
 ---
 
 ## Abstract
-In the real world, a scene is usually cast by multiple illuminants and herein we address the problem of spatial illu- mination estimation. Our solution is based on detecting gray pixels with the help of flash photography. We show that flash photography significantly improves the performance of gray pixel detection without illuminant prior, training data or cali- bration of the flash. We also introduce a novel flash photog- raphy dataset generated from the MIT intrinsic dataset.
+In the real world, a scene is usually cast by multiple illuminants and herein we address the problem of spatial illu- mination estimation. Our solution is based on detecting gray pixels with the help of flash photography. We show that flash photography significantly improves the performance of gray pixel detection without illuminant prior, training data or cali- bration of the flash. We also introduce a novel flash photography dataset generated from the MIT intrinsic dataset.
 
 ## Introduction
 We address the illumination estimation problem which aims to measure the chroma of illumination in order to remove the color-bias from a captured image [1]. Illumination estima- tion can help in high-level vision tasks, e.g. object recogni- tion, tracking [2] and intrinsic image decomposition. There exists a large number of related works, from the traditional non-learning approaches [3] to recent deep learning based ap- proaches [4, 5, 6]. However, the vast majority of these works concentrate on the case of a single global illumination which is often an invalid assumption [7]. In this paper, we explore a more-complexless-optimisticsetting–mixedillumination
