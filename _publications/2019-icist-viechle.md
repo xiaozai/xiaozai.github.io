@@ -3,7 +3,7 @@ title: "Visibility-Aware Part Coding for Vehicle Viewing Angle Estimation"
 collection: publications
 permalink: /publications/2019-icist-viechle
 venue: "2019 9th International Conference on Information Science and Technology (ICIST)"
-excerpt: 'Please contact the first author'
+excerpt: 'Please contact the first author, D.Yang'
 date: 2019-08-02
 paperurl: https://ieeexplore.ieee.org/document/8836907
 citation: 'D. Yang, Y. Qian, D. Cai, S. Yan, J. Kämäräinen and K. Chen. "Visibility-Aware Part Coding for Vehicle Viewing Angle Estimation." <i>2019 9th International Conference on Information Science and Technology (ICIST),</i> Hulunbuir, China, 2019, pp. 65-70, doi: 10.1109/ICIST.2019.8836907. 
