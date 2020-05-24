@@ -3,7 +3,7 @@ title: "Anthropometric clothing measurements from 3D body scans"
 collection: publications
 permalink: /publications/2020-mva-anthropometry
 venue: "Machine Vision and Applications (2020) 31, 7"
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Please check our Dataset : NOMO-3d-400-scans Dataset'
 date: 2020-01-22
 paperurl: https://doi.org/10.1007/s00138-019-01054-4
 citation: 'Song Yan, Johan Wirta, Joni-Kristian Kämäräinen (2020). "Anthropometric clothing measurements from 3D body scans." <i>Machine Vision and Applications (2020)</i> 31, 7 '
