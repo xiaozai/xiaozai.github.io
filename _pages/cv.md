@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in Testing Science, Testing University, 2012
-* M.S. in Testonomy, Testing University, 2014
-* Ph.D in Testology, Testing University, 2017 (expected)
+* B.S. in Department of Software Engineering, Sichuan University, 2011 - 2015
+* M.S. in Department of Information Technology, Communication Systems and Networks, Tampere University of Technology, 2015 - 2017
+* Ph.D in Department of Computing, Tampere University, 2017 - now (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
+* Fall 2017: Researching Assistant
+  * Tampere University of Technology / Tampere University, Computer Vision Group
+  * Duties included: Researching Assistant
+  * Supervisor: Joni-Kristian Kämäräinen
 
-* Fall 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
+* Fall 2015: Internship
+  * Tampere Disease Map (Tampere City), Demola Finland
+  * Duties included: Android Developer
+  * Supervisor: Demola
+
+* Spring 2012: Internship
+  * short-term internship : Dalian neusoft
+  * Duties included: Android Developer 
+  * Supervisor: None
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* python, matlab
+* English, Chinese
+* football, swimming, ice skating
+* 3D Human Body Reconstruction, Tracking, Age Estimation, Color Consistancy
 
 Publications
 ======
@@ -56,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 49 different slack teams
+* not yet
