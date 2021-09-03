@@ -1,11 +1,11 @@
 ---
-title: "DepthTtrack : Unveiling the Power of RGBD Tracking"
+title: "DAL : A Deep Depth-aware Long-term Tracker"
 collection: publications
-permalink: /publications/2021-iccv-det
-venue: "ICCV 2021"
+permalink: /publications/
+venue: "ICPR 2020"
 excerpt: ''
-date: 2021
+date: 2020
 paperurl:
-citation: 'Song Yan, Jinyu Yang, Jani Kapyla, Feng Zheng, Ales Leonardis, Joni-Kristian Kämäräinen, "DepthTtrack : Unveiling the Power of RGBD Tracking", ICCV 2021
+citation: 'Qian, Y., Yan, S., Lukežič, A., Kristan, M., Kämäräinen, J. K., & Matas, J. (2021, January). DAL: A Deep Depth-Aware Long-term Tracker. In 2020 25th International Conference on Pattern Recognition (ICPR) (pp. 7825-7832). IEEE.
 '
 ---
